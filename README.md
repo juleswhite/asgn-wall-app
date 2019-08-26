@@ -1,6 +1,6 @@
 # Getting Started
 
-Implement the spec described in the edu.vanderbilt.wall.wall.WallController class. You DO NOT need to implement authentication or change the WallController to leverage a passed in Principal to identify the user. The user can still be supplied via an insecure "user" parameter.
+Implement the spec described in the edu.vanderbilt.wall.wall.WallController class. You DO NOT need to implement authentication or change the WallController to leverage a passed in Principal to identify the user. 
 
 Run the edu.vanderbilt.wall.wall.WallApplicationTests to check if you have implemented the spec correctly. The grading for the assignment is embedded as comments in the test. This test is located under the src/test/java folder and can be run from Eclipse by right-clicking on it and selecting Run As->JUnit Test. 
 
