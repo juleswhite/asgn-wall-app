@@ -21,8 +21,7 @@ embedded as comments in the test. This test is located under the
 src/test/java folder and can be run from Eclipse by right-clicking on
 it and selecting Run As->JUnit Test.
 
-When you are done, turn in your WallController.java, Post.java, and PostRepository.java
-files to Brightspace.
+When you are done, turn in a zip file with your src directory and build.gradle file to Brightspace.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
